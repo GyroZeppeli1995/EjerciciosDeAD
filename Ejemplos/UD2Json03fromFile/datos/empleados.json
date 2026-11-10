@@ -1,0 +1,17 @@
+[
+  {
+	"nombre":"Juan",
+    "edad": 30,
+	"encargado": false
+  },
+  {
+	"nombre":"Ana",
+    "edad": 27,
+	"encargado": true
+  },
+  {
+	"nombre":"Elena",
+    "edad": 38,
+	"encargado": false
+  }
+]  

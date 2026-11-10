@@ -1,0 +1,37 @@
+[
+  {
+    "numnotas": 3,
+    "notamedia": 5.47,
+    "notas": [
+      3.4,
+      6.2,
+      6.8
+    ],
+    "localidad": "Alicante",
+    "id": 1,
+    "nombre": "Luis Pérez"
+  },
+  {
+    "numnotas": 2,
+    "notamedia": 5.9,
+    "notas": [
+      4.3,
+      7.5
+    ],
+    "localidad": "Elche",
+    "id": 2,
+    "nombre": "Ana García"
+  },
+  {
+    "numnotas": 3,
+    "notamedia": 8.47,
+    "notas": [
+      7.7,
+      9.3,
+      8.4
+    ],
+    "localidad": "Elda",
+    "id": 3,
+    "nombre": "Juan González"
+  }
+]
